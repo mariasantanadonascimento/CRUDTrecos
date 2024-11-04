@@ -1,2 +1,2 @@
 # CRUDTrecos
- projeto aula 10 professor André
+Um gerenciador de coleções em Python, Flask e MySQL.
